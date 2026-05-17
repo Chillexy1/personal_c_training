@@ -35,4 +35,6 @@ typedef struct{
 
 }Cars;
 
+void birthday(int *age);
+
 #endif
