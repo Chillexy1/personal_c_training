@@ -4,7 +4,7 @@
  * */
 
 int main(void) {
-  FILE *pFile = fopen("text.txt", "w");
+  FILE *pFile = fopen("/storage/emulated/0/output.txt", "w");
   char text[] = "LEARNING SOFTWARE ENGINEERING AT WINMINGLE IS THE "
                 "BEST\n\nWELDONE CHILLEXY!!!\n ";
 
